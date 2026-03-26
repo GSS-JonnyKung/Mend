@@ -1,0 +1,902 @@
+!SESSION 2024-05-08 10:38:04.653 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2024-05-08 10:41:49.319
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-08 10:41:49.319
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-08 10:41:55.612
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jonny_kung'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-08 10:47:33.435
+!MESSAGE Server returned lastModified <= 0 for https://github.com/CheckmarxDev/ast-eclipse-plugin-update-site/raw/main/content.xml.xz
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-08 10:47:39.205
+!MESSAGE Server returned lastModified <= 0 for https://github.com/CheckmarxDev/ast-eclipse-plugin-update-site/raw/main/artifacts.xml.xz
+!SESSION 2024-05-08 10:48:07.488 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2024-05-08 10:49:10.655
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-08 10:49:10.655
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-08 10:49:16.723
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jonny_kung'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-05-08 20:23:10.807 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-05-08 20:23:24.877
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2024-05-08 20:23:30.750
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-08 20:23:30.750
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-08 20:23:39.420
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jonny_kung'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-08 20:23:58.442
+!MESSAGE Server returned lastModified <= 0 for https://github.com/CheckmarxDev/ast-eclipse-plugin-update-site/raw/main/artifacts.xml.xz
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-08 20:23:59.568
+!MESSAGE Server returned lastModified <= 0 for https://github.com/CheckmarxDev/ast-eclipse-plugin-update-site/raw/main/content.xml.xz
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-08 20:23:59.585
+!MESSAGE Server returned lastModified <= 0 for https://github.com/CheckmarxDev/ast-eclipse-plugin-update-site/raw/nightly/artifacts.xml.xz
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-08 20:24:01.045
+!MESSAGE Server returned lastModified <= 0 for https://github.com/CheckmarxDev/ast-eclipse-plugin-update-site/raw/nightly/content.xml.xz
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:26:20.861
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:36:04.569
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:36:04.642
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:36:50.772
+!MESSAGE Fetching results for scan id dcfae13f-e2d9-45b8-a0b9-f5f7550a6c49...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:36:57.824
+!MESSAGE Scan results: 11
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:37:11.916
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:37:52.996
+!MESSAGE Getting scan info for scan id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:37:54.110
+!MESSAGE Checkmarx: Scan running with id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:38:07.969
+!MESSAGE Getting scan info for scan id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:38:08.992
+!MESSAGE Checkmarx: Scan running with id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:38:22.965
+!MESSAGE Getting scan info for scan id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:38:33.347
+!MESSAGE Checkmarx: Scan running with id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:38:37.962
+!MESSAGE Getting scan info for scan id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:38:40.397
+!MESSAGE Checkmarx: Scan running with id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:38:52.962
+!MESSAGE Getting scan info for scan id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:38:55.310
+!MESSAGE Checkmarx: Scan running with id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:39:07.964
+!MESSAGE Getting scan info for scan id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:39:17.680
+!MESSAGE Checkmarx: Scan running with id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:39:22.966
+!MESSAGE Getting scan info for scan id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:39:24.531
+!MESSAGE Checkmarx: Scan running with id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:39:37.954
+!MESSAGE Getting scan info for scan id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:39:39.022
+!MESSAGE Checkmarx: Scan running with id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:39:52.960
+!MESSAGE Getting scan info for scan id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:40:01.400
+!MESSAGE Checkmarx: Scan running with id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:40:07.965
+!MESSAGE Getting scan info for scan id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:40:09.092
+!MESSAGE Checkmarx: Scan running with id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:40:22.959
+!MESSAGE Getting scan info for scan id b59c6a27-4e4e-40b6-a018-86e2e5eb8f39...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:40:25.874
+!MESSAGE Checkmarx scan finished with status Completed
+
+!ENTRY org.eclipse.ui 4 0 2024-05-08 20:46:46.693
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalStateException: Need an underlying widget to be able to set the input.(Has the widget been disposed?)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1627)
+	at com.checkmarx.eclipse.views.CheckmarxView$9$1.lambda$0(CheckmarxView.java:783)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 4 0 2024-05-08 20:46:46.716
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalStateException: Need an underlying widget to be able to set the input.(Has the widget been disposed?)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1627)
+	at com.checkmarx.eclipse.views.CheckmarxView$9$1.lambda$0(CheckmarxView.java:783)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:46:58.397
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:46:58.490
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-08 20:47:01.447
+!MESSAGE An internal error occurred during: "Checkmarx: Loading projects, branches and scans...".
+!STACK 0
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:361)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.checkmarx.eclipse.views.CheckmarxView.getLatestScanFromScanList(CheckmarxView.java:1070)
+	at com.checkmarx.eclipse.views.CheckmarxView.access$16(CheckmarxView.java:1069)
+	at com.checkmarx.eclipse.views.CheckmarxView$3.run(CheckmarxView.java:416)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:48:42.275
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:48:46.870
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:48:47.411
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:49:10.027
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:49:10.177
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-08 20:49:16.977
+!MESSAGE An internal error occurred during: "Checkmarx: Loading projects, branches and scans...".
+!STACK 0
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:361)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.checkmarx.eclipse.views.CheckmarxView.getLatestScanFromScanList(CheckmarxView.java:1070)
+	at com.checkmarx.eclipse.views.CheckmarxView.access$16(CheckmarxView.java:1069)
+	at com.checkmarx.eclipse.views.CheckmarxView$3.run(CheckmarxView.java:416)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:49:36.130
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 4 0 2024-05-08 20:49:38.816
+!MESSAGE An error occurred while creating a scan: panic: runtime error: index out of range [0] with length 0
+
+goroutine 1 [running]:
+github.com/checkmarx/ast-cli/internal/commands.getResubmitConfiguration({0xffe7c8, 0xc0000a8280}, {0xc000394090, 0x24}, {0x0?, 0x0})
+	/Users/runner/work/ast-cli/ast-cli/internal/commands/scan.go:813 +0x29f
+github.com/checkmarx/ast-cli/internal/commands.setupScanTypeProjectAndConfig(0xc000151690, 0xc000151600?, {0xffee38, 0xc0000f0130}, {0xff7c80, 0xc0000f0100}, {0xffe7c8, 0xc0000a8280})
+	/Users/runner/work/ast-cli/ast-cli/internal/commands/scan.go:764 +0x585
+github.com/checkmarx/ast-cli/internal/commands.createScanModel(0x0?, {0xff7cc0, 0xc0000f0120}, {0xffee38, 0xc0000f0130}, {0xff7c80, 0xc0000f0100}, {0xffe7c8, 0xc0000a8280})
+	/Users/runner/work/ast-cli/ast-cli/internal/commands/scan.go:1512 +0xdb
+github.com/checkmarx/ast-cli/internal/commands.scanCreateSubCommand.runCreateScanCommand.func1(0xc00007f400?, {0xc00019c1e0?, 0x0?, 0xf1260f?})
+	/Users/runner/work/ast-cli/ast-cli/internal/commands/scan.go:1409 +0x1be
+github.com/spf13/cobra.(*Command).execute(0xc0000f8600, {0xc00019c0f0, 0xf, 0xf})
+	/Users/runner/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:940 +0x87c
+github.com/spf13/cobra.(*Command).ExecuteC(0xc0000f8000)
+	/Users/runner/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:1068 +0x3a5
+github.com/spf13/cobra.(*Command).Execute(0xffab50?)
+	/Users/runner/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:992 +0x13
+main.main()
+	/Users/runner/work/ast-cli/ast-cli/cmd/main.go:107 +0xcd2
+
+!STACK 0
+com.checkmarx.ast.wrapper.CxException: panic: runtime error: index out of range [0] with length 0
+
+goroutine 1 [running]:
+github.com/checkmarx/ast-cli/internal/commands.getResubmitConfiguration({0xffe7c8, 0xc0000a8280}, {0xc000394090, 0x24}, {0x0?, 0x0})
+	/Users/runner/work/ast-cli/ast-cli/internal/commands/scan.go:813 +0x29f
+github.com/checkmarx/ast-cli/internal/commands.setupScanTypeProjectAndConfig(0xc000151690, 0xc000151600?, {0xffee38, 0xc0000f0130}, {0xff7c80, 0xc0000f0100}, {0xffe7c8, 0xc0000a8280})
+	/Users/runner/work/ast-cli/ast-cli/internal/commands/scan.go:764 +0x585
+github.com/checkmarx/ast-cli/internal/commands.createScanModel(0x0?, {0xff7cc0, 0xc0000f0120}, {0xffee38, 0xc0000f0130}, {0xff7c80, 0xc0000f0100}, {0xffe7c8, 0xc0000a8280})
+	/Users/runner/work/ast-cli/ast-cli/internal/commands/scan.go:1512 +0xdb
+github.com/checkmarx/ast-cli/internal/commands.scanCreateSubCommand.runCreateScanCommand.func1(0xc00007f400?, {0xc00019c1e0?, 0x0?, 0xf1260f?})
+	/Users/runner/work/ast-cli/ast-cli/internal/commands/scan.go:1409 +0x1be
+github.com/spf13/cobra.(*Command).execute(0xc0000f8600, {0xc00019c0f0, 0xf, 0xf})
+	/Users/runner/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:940 +0x87c
+github.com/spf13/cobra.(*Command).ExecuteC(0xc0000f8000)
+	/Users/runner/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:1068 +0x3a5
+github.com/spf13/cobra.(*Command).Execute(0xffab50?)
+	/Users/runner/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:992 +0x13
+main.main()
+	/Users/runner/work/ast-cli/ast-cli/cmd/main.go:107 +0xcd2
+
+	at com.checkmarx.ast.wrapper.Execution.executeCommand(Execution.java:56)
+	at com.checkmarx.ast.wrapper.CxWrapper.scanCreate(CxWrapper.java:104)
+	at com.checkmarx.eclipse.views.DataProvider.createScan(DataProvider.java:691)
+	at com.checkmarx.eclipse.views.actions.ActionStartScan$2.run(ActionStartScan.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:53:05.538
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:53:05.626
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-08 20:53:08.685
+!MESSAGE An internal error occurred during: "Checkmarx: Loading projects, branches and scans...".
+!STACK 0
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:361)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.checkmarx.eclipse.views.CheckmarxView.getLatestScanFromScanList(CheckmarxView.java:1070)
+	at com.checkmarx.eclipse.views.CheckmarxView.access$16(CheckmarxView.java:1069)
+	at com.checkmarx.eclipse.views.CheckmarxView$3.run(CheckmarxView.java:416)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:54:24.346
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:54:46.778
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:54:49.856
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:55:12.322
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:55:12.487
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-08 20:55:16.446
+!MESSAGE An internal error occurred during: "Checkmarx: Loading projects, branches and scans...".
+!STACK 0
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:361)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.checkmarx.eclipse.views.CheckmarxView.getLatestScanFromScanList(CheckmarxView.java:1070)
+	at com.checkmarx.eclipse.views.CheckmarxView.access$16(CheckmarxView.java:1069)
+	at com.checkmarx.eclipse.views.CheckmarxView$3.run(CheckmarxView.java:416)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2024-05-08 20:55:41.626 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2024-05-08 20:55:53.326
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-08 20:55:53.326
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-08 20:55:56.469
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jonny_kung'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:56:09.360
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 20:56:09.528
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-08 20:56:12.359
+!MESSAGE An internal error occurred during: "Checkmarx: Loading projects, branches and scans...".
+!STACK 0
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:361)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.checkmarx.eclipse.views.CheckmarxView.getLatestScanFromScanList(CheckmarxView.java:1070)
+	at com.checkmarx.eclipse.views.CheckmarxView.access$16(CheckmarxView.java:1069)
+	at com.checkmarx.eclipse.views.CheckmarxView$3.run(CheckmarxView.java:416)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-08 20:56:46.100
+!MESSAGE Server returned lastModified <= 0 for https://github.com/CheckmarxDev/ast-eclipse-plugin-update-site/raw/nightly/artifacts.xml.xz
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-08 20:56:46.190
+!MESSAGE Server returned lastModified <= 0 for https://github.com/CheckmarxDev/ast-eclipse-plugin-update-site/raw/main/artifacts.xml.xz
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-08 20:56:47.274
+!MESSAGE Server returned lastModified <= 0 for https://github.com/CheckmarxDev/ast-eclipse-plugin-update-site/raw/nightly/content.xml.xz
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-08 20:56:47.423
+!MESSAGE Server returned lastModified <= 0 for https://github.com/CheckmarxDev/ast-eclipse-plugin-update-site/raw/main/content.xml.xz
+!SESSION 2024-05-08 21:06:00.074 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_TW
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2024-05-08 21:06:10.554
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-08 21:06:10.554
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-08 21:06:13.947
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\jonny_kung'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:06:39.987
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:06:39.995
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY org.eclipse.core.jobs 4 2 2024-05-08 21:06:53.286
+!MESSAGE An internal error occurred during: "Checkmarx: Loading projects, branches and scans...".
+!STACK 0
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:361)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.checkmarx.eclipse.views.CheckmarxView.getLatestScanFromScanList(CheckmarxView.java:1070)
+	at com.checkmarx.eclipse.views.CheckmarxView.access$16(CheckmarxView.java:1069)
+	at com.checkmarx.eclipse.views.CheckmarxView$3.run(CheckmarxView.java:416)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:07:54.291
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:07:54.307
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:09:51.120
+!MESSAGE Fetching results for scan id fbb0fcad-9e85-4b74-bfae-1ae8699389c5...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:10:01.161
+!MESSAGE Scan results: 11
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:10:53.775
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:14:17.514
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:14:43.339
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:14:43.343
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:14:54.031
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:14:54.037
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:15:02.783
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:15:02.788
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:15:11.097
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:15:17.521
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:15:38.573
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:15:38.577
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:15:57.196
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:15:57.199
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:16:10.476
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:16:10.478
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:16:17.610
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:16:17.614
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:16:21.380
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:16:32.518
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:16:38.317
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:16:47.520
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:17:00.196
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:17:02.523
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:17:08.750
+!MESSAGE Checkmarx: Scan running with id 019060a6-ebfb-480f-adbe-6b1afe369253
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:17:17.523
+!MESSAGE Getting scan info for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:17:48.753
+!MESSAGE Checkmarx scan finished with status Completed
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:20:17.395
+!MESSAGE Change scan id event not triggered. Request already running: false. Scan id results already retrieved: true
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:20:24.657
+!MESSAGE Change branch event not triggered. Branch already selected
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:21:10.583
+!MESSAGE Fetching results for scan id 2c4a509c-4078-4dcc-8101-7f238bc04bd6...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:21:32.323
+!MESSAGE Fetching results for scan id 019060a6-ebfb-480f-adbe-6b1afe369253...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:21:47.910
+!MESSAGE Scan results: 11
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:22:01.831
+!MESSAGE Scan results: 2379
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:22:52.178
+!MESSAGE Change scan id event not triggered. Request already running: false. Scan id results already retrieved: true
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:30:30.017
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:36:20.201
+!MESSAGE Getting scan info for scan id c9952152-b588-4bc5-bcd8-0de9741acd9b...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:36:40.437
+!MESSAGE Checkmarx: Scan running with id c9952152-b588-4bc5-bcd8-0de9741acd9b
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:36:40.444
+!MESSAGE Getting scan info for scan id c9952152-b588-4bc5-bcd8-0de9741acd9b...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:36:51.681
+!MESSAGE Checkmarx: Scan running with id c9952152-b588-4bc5-bcd8-0de9741acd9b
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:36:51.685
+!MESSAGE Getting scan info for scan id c9952152-b588-4bc5-bcd8-0de9741acd9b...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:36:55.210
+!MESSAGE Checkmarx: Scan running with id c9952152-b588-4bc5-bcd8-0de9741acd9b
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:37:05.214
+!MESSAGE Getting scan info for scan id c9952152-b588-4bc5-bcd8-0de9741acd9b...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:37:14.587
+!MESSAGE Checkmarx: Scan running with id c9952152-b588-4bc5-bcd8-0de9741acd9b
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:37:20.210
+!MESSAGE Getting scan info for scan id c9952152-b588-4bc5-bcd8-0de9741acd9b...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:37:28.958
+!MESSAGE Checkmarx: Scan running with id c9952152-b588-4bc5-bcd8-0de9741acd9b
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:37:35.200
+!MESSAGE Getting scan info for scan id c9952152-b588-4bc5-bcd8-0de9741acd9b...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:37:37.280
+!MESSAGE Checkmarx: Scan running with id c9952152-b588-4bc5-bcd8-0de9741acd9b
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:37:50.200
+!MESSAGE Getting scan info for scan id c9952152-b588-4bc5-bcd8-0de9741acd9b...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:38:25.053
+!MESSAGE Checkmarx scan finished with status Completed
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:38:43.623
+!MESSAGE Getting scan info for scan id c9952152-b588-4bc5-bcd8-0de9741acd9b...
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:39:46.113
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:40:14.197
+!MESSAGE Fetching results for scan id c9952152-b588-4bc5-bcd8-0de9741acd9b...
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-05-08 21:40:14.563
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:483)
+	at com.checkmarx.eclipse.views.CheckmarxView$16.populateTitleLabel(CheckmarxView.java:1256)
+	at com.checkmarx.eclipse.views.CheckmarxView$16.selectionChanged(CheckmarxView.java:1229)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:148)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2128)
+	at org.eclipse.jface.viewers.StructuredViewer.handleSelect(StructuredViewer.java:1176)
+	at org.eclipse.jface.viewers.StructuredViewer$4.widgetSelected(StructuredViewer.java:1205)
+	at org.eclipse.jface.util.OpenStrategy.fireSelectionEvent(OpenStrategy.java:263)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:421)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-05-08 21:40:14.566
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:483)
+	at com.checkmarx.eclipse.views.CheckmarxView$16.populateTitleLabel(CheckmarxView.java:1256)
+	at com.checkmarx.eclipse.views.CheckmarxView$16.selectionChanged(CheckmarxView.java:1229)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:148)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2128)
+	at org.eclipse.jface.viewers.StructuredViewer.handleSelect(StructuredViewer.java:1176)
+	at org.eclipse.jface.viewers.StructuredViewer$4.widgetSelected(StructuredViewer.java:1205)
+	at org.eclipse.jface.util.OpenStrategy.fireSelectionEvent(OpenStrategy.java:263)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:421)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-05-08 21:40:14.569
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:483)
+	at com.checkmarx.eclipse.views.CheckmarxView$16.populateTitleLabel(CheckmarxView.java:1256)
+	at com.checkmarx.eclipse.views.CheckmarxView$16.selectionChanged(CheckmarxView.java:1229)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:148)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2128)
+	at org.eclipse.jface.viewers.StructuredViewer.handleSelect(StructuredViewer.java:1176)
+	at org.eclipse.jface.viewers.StructuredViewer$4.widgetSelected(StructuredViewer.java:1205)
+	at org.eclipse.jface.util.OpenStrategy.fireSelectionEvent(OpenStrategy.java:263)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:421)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-05-08 21:40:14.573
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:483)
+	at com.checkmarx.eclipse.views.CheckmarxView$16.populateTitleLabel(CheckmarxView.java:1256)
+	at com.checkmarx.eclipse.views.CheckmarxView$16.selectionChanged(CheckmarxView.java:1229)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:148)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2128)
+	at org.eclipse.jface.viewers.StructuredViewer.handleSelect(StructuredViewer.java:1176)
+	at org.eclipse.jface.viewers.StructuredViewer$4.widgetSelected(StructuredViewer.java:1205)
+	at org.eclipse.jface.util.OpenStrategy.fireSelectionEvent(OpenStrategy.java:263)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:421)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:40:27.623
+!MESSAGE Scan results: 2379
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:41:45.713
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
+
+!ENTRY com.checkmarx.eclipse.plugin 1 0 2024-05-08 21:43:04.769
+!MESSAGE Authentication Status: Successfully authenticated to Checkmarx One server!
